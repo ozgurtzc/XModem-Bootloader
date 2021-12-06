@@ -1,0 +1,16 @@
+# Ignore eclipse generated binary directories 
+Debug/
+Release/
+build/
+
+*.o
+
+\.project
+\.cproject
+
+\.mxproject
+
+\.settings/
+
+# CubeMX generated files
+mx.scratch
